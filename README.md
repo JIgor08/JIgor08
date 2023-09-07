@@ -19,8 +19,7 @@
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit_Learn-ffffff.svg?logo=scikitlearn&logoColor=orange"></a>
     <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn%20-%23013243.svg?logo=seaborn&logoColor=white"></a>
-    
-
+    <a href="#"><img alt="Excel" src="https://img.shields.io/badge/Excel%20-%2381C784.svg?logo=microsoft-excel&logoColor=white"></a>
 </p>
           
 ## Estudando
