@@ -4,10 +4,24 @@
 
 #### Possuo grande interesse em ciência/análise de dados e machine learning, tópicos em que pretendo continuar aprimorando meus conhecimentos.
 
-## Ferramentas e Tecnologias
+## 🛠️ Minhas ferramentas
 
+### 👨‍💻 Linguagens
 
-<img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="Jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> <img align="center" alt="Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /> <img align="center" alt="MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/> <img align="center" alt="NumPy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
+<p>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+
+### :books: Frameworks e bibliotecas 
+
+<p>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="Scikit Learn" src="https://img.shields.io/badge/Scikit_Learn-ffffff.svg?logo=scikitlearn&logoColor=orange"></a>
+    <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn%20-%23013243.svg?logo=seaborn&logoColor=white"></a>
+    <a href="#"><img alt="Excel" src="https://img.shields.io/badge/Excel%20-%2381BC06.svg?logo=microsoft-excel&logoColor=white"></a>
+  
+</p>
           
 ## Estudando
 #### Machine Learning e Power BI
