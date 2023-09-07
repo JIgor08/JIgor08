@@ -12,7 +12,7 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 
-### :books: Frameworks e bibliotecas 
+### 💻 Frameworks e bibliotecas 
 
 <p>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
@@ -22,7 +22,7 @@
     <a href="#"><img alt="Excel" src="https://img.shields.io/badge/Excel%20-%2381C784.svg?logo=microsoft-excel&logoColor=white"></a>
 </p>
           
-## Estudando
+### 📚 Estudando
 #### Machine Learning e Power BI
 
 ## GitHub Status
