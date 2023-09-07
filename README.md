@@ -23,7 +23,21 @@
     <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn%20-%23013243.svg?logo=seaborn&logoColor=white"></a>
     <a href="#"><img alt="Excel" src="https://img.shields.io/badge/Excel%20-%2381C784.svg?logo=microsoft-excel&logoColor=white"></a>
 </p>
-          
+
+### 🗄️ Databases e Cloud Hosting
+<p>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+</p>
+
+### 💻 Software e Ferramentas
+
+<p>
+    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="VSCode" src="https://img.shields.io/badge/VS_Code-ffffff.svg?logo=visualstudio&logoColor=blue"></a>
+</p>
+   
 ### 📚 Estudando
 #### Machine Learning e Power BI
 
