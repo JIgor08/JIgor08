@@ -30,6 +30,8 @@
 
 [![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIgor08)](https://github.com/JIgor08/github-readme-stats)
 
+[![Igor's Streak](https://streak-stats.demolab.com/?user=JIgor08)](https://git.io/streak-stats)
+
 ## Contato
 <a href="https://www.linkedin.com/in/jo%C3%A3o-igor-dos-santos-15079220b/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
