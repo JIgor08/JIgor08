@@ -26,18 +26,7 @@
 #### Machine Learning e Power BI
 
 ## GitHub Status
-
-
-|                                                                     Status Daniel                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [![Igor github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JIgor08&theme=react-dark&custom_title=Contribuições%20nos%20ultimos%20dias&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
-| ![Igor github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JIgor08&show_icons=true&theme=react  )              | 
-| ![Igor GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JIgor08&theme=react )                    | 
-    
-    
-|                                                                                                      Daniel's Stars                                                                                                       |                                                           Linguagens mais utilizadas                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats-sigma-five.vercel.app/api?username=JIgor08&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react) | ![Linguagens mais usadas](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JIgor08&theme=react&layout=compact) |
+[![Igor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JIgor08&theme=react-dark)](https://github.com/JIgor08/github-readme-activity-graph)
 
 ## Contato
 <a href="https://www.linkedin.com/in/jo%C3%A3o-igor-dos-santos-15079220b/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
