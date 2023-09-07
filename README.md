@@ -2,6 +2,9 @@
 
 #### Olá, meu nome é João Igor e sou estudante de engenharia de computação na Universidade Federal do Pará.
 
+ <img src="https://komarev.com/ghpvc/?username=dnsrsdata&style=flat-square" alt="Profile views" align='right'/> <a href="https://github.com/dnsrsdata"> </a> 
+<br/>
+
 #### Possuo grande interesse em ciência/análise de dados e machine learning, tópicos em que pretendo continuar aprimorando meus conhecimentos.
 
 ## 🛠️ Minhas ferramentas
