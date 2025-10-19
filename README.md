@@ -12,7 +12,6 @@ Sou um entusiasta de Inteligência Artificial e Python.
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JIgor08&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JIgor08&layout=compact&theme=radical)
 
-## ⚡ Minhas conquistas
-- Resolvo problemas de IA e otimização
-- Aprendendo sempre novas tecnologias
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-d-0b79b931a/)
+
 
