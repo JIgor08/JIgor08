@@ -1,6 +1,6 @@
 # Olá, eu sou Igor! 👋
 
-Sou um entusiasta de Inteligência Artificial.  
+Sou estudante de Ciência da Computação na UFT. Gosto de estudar sobre Machine Learning, IA e Engenharia de Dados.
 
 ## 🔧 Tecnologias & Ferramentas
 - Python
