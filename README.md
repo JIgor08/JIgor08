@@ -1,12 +1,16 @@
 # Olá, eu sou Igor! 👋
 
-Sou um entusiasta de Inteligência Artificial e Python.  
+Sou um entusiasta de Inteligência Artificial.  
 
 ## 🔧 Tecnologias & Ferramentas
 - Python
+- C
+- Java
+- Jupyter Notebook
+- SQL
+- Excel/Google Sheets
 - Git
-- WSL
-- Algoritmos Genéticos
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JIgor08&show_icons=true&theme=radical)
