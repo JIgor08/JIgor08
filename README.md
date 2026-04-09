@@ -1,6 +1,6 @@
 # Olá, eu sou Igor! 👋
 
-Sou estudante de Ciência da Computação na UFT. Gosto de estudar sobre Machine Learning, IA e Engenharia de Dados.
+Sou estudante de Ciência da Computação. Gosto de estudar sobre Machine Learning, IA e Engenharia de Dados.
 
 ## 🔧 Tecnologias & Ferramentas
 <p float="left">
